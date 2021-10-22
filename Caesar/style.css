@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Rubik One', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+textarea{
+    font-size: 20px;
+    margin-right: 10px;
+    height: 100px;
+    width: 400px;
+    font-family: 'Rubik One', sans-serif;
+}
+
+button{
+    color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+    font-size: 20px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+}
+
+p{  
+    font-family: 'Rubik One', sans-serif;
+    color: white;
+    border: 1px solid orange;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.form_wrapper{
+    display: flex;
+    align-items: center;
+}
