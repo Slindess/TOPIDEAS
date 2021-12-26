@@ -1,0 +1,13 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.snowflake{
+    max-height: 10px;
+    position: absolute;
+}
